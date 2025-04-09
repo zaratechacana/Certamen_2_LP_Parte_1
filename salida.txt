@@ -1,0 +1,27 @@
+2	proceso_1.txt	Instrucción 1
+3	proceso_1.txt	Instrucción 2
+4	proceso_1.txt	Salida 1
+5	proceso_1.txt	Instrucción 3
+6	proceso_1.txt	Entrada 2
+7	proceso_1.txt	Instrucción 4
+8	proceso_1.txt	Salida 2
+9	proceso_1.txt	Instrucción 5
+10	proceso_1.txt	Finalizar
+11	proceso_1.txt	Finalizar
+13	proceso_2.txt	Instrucción 1
+14	proceso_2.txt	Instrucción 2
+15	proceso_2.txt	Salida 1
+16	proceso_2.txt	Instrucción 3
+17	proceso_2.txt	Entrada 2
+18	proceso_2.txt	Instrucción 4
+19	proceso_2.txt	Salida 2
+20	proceso_2.txt	Instrucción 5
+21	proceso_2.txt	Instrucción 6
+22	proceso_2.txt	Instrucción 7
+23	proceso_2.txt	Instrucción 8
+24	proceso_2.txt	Finalizar
+25	proceso_2.txt	Finalizar
+27	proceso_3.txt	Instrucción 1
+28	proceso_3.txt	Instrucción 2
+29	proceso_3.txt	Salida 1
+29	proceso_3.txt	Finalizar

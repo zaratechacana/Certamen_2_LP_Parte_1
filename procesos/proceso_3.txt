@@ -1,0 +1,11 @@
+Nombre_Proceso_3
+Entrada 1
+Instrucción 1
+Instrucción 2
+Salida 1
+Instrucción 3
+Instrucción 4
+Entrada 2
+Instrucción 5
+Salida 2
+Finalizar

@@ -1,0 +1,14 @@
+Nombre_Proceso_2
+Entrada 1
+Instrucción 1
+Instrucción 2
+Salida 1
+Instrucción 3
+Entrada 2
+Instrucción 4
+Salida 2
+Instrucción 5
+Instrucción 6
+Instrucción 7
+Instrucción 8
+Finalizar

@@ -1,0 +1,5 @@
+#Tiempo Creación (se agregan a Cola Listo)  |    Nombre de archivo del Proceso(s)
+1   |   proceso_1.txt
+3   |   proceso_2.txt
+5   |   proceso_3.txt
+
